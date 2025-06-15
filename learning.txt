@@ -1,1 +1,2 @@
-Course Reflection
+What I have learned from this course
+So far i am learning basic commands on Git and how to use it alonside Github
